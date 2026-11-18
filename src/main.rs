@@ -9,14 +9,14 @@
 //! ```json
 //! {
 //!   "default_credentials": {
-//!     "client_id": "63dad278-4f6b-4dde-8e4b-ad0696d1b934",
+//!     "client_id": "8ac6cf37-b2f7-4681-8342-096f2ea56d54",
 //!     "client_secret": "your-default-client-secret"
 //!   },
 //!   "sites": {
 //!     "certificate-name": {
 //!       "label": "Label for Acquia Cloud UI",
 //!       "environments": [
-//!         "106443-8026ebdc-b0d9-4095-8036-7d2dc8c26974"
+//!         "4b278584-fff2-4edb-9306-e65f82c505d1"
 //!       ]
 //!     },
 //!     "other-account-site.org": {
@@ -26,8 +26,8 @@
 //!         "client_secret": "site-specific-client-secret"
 //!       },
 //!       "environments": [
-//!         "106443-1a2b3c4d-5e6f-4789-9abc-def012345678",
-//!         "106443-9f8e7d6c-5b4a-4321-8fed-cba987654321"
+//!         "8afbd6bf-b2d3-4e7a-995b-b352cfb35d4b",
+//!         "0929394f-012c-4bb2-a91a-f5b04db04f8a"
 //!       ]
 //!     }
 //!   }
